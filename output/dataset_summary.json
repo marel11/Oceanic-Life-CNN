@@ -1,0 +1,41 @@
+{
+  "dataset_url": "https://www.kaggle.com/datasets/cyanex1702/oceanic-life-dataset",
+  "jumlah_gambar": 1022,
+  "jumlah_kelas": 8,
+  "kelas": [
+    "Coral",
+    "Crustaceans",
+    "Fish",
+    "Octopuses",
+    "Other marine organisms",
+    "Seaweed",
+    "Shark",
+    "Sponges"
+  ],
+  "kelas_dan_jumlah": {
+    "Coral": 92,
+    "Crustaceans": 102,
+    "Fish": 331,
+    "Octopuses": 47,
+    "Other marine organisms": 152,
+    "Seaweed": 114,
+    "Shark": 122,
+    "Sponges": 62
+  },
+  "jumlah_train": 817,
+  "jumlah_validation": 102,
+  "jumlah_test": 103,
+  "jumlah_dilewati_atau_duplikat": 6930,
+  "ukuran_gambar_cnn": 128,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "maks_epoch": 15,
+  "normalisasi": "Rescaling(1/255) di dalam model",
+  "rasio_kelas_terbesar_terkecil": 7.042553191489362,
+  "jumlah_mode_warna_asli": {
+    "RGB": 1011,
+    "RGBA": 6,
+    "P": 4,
+    "L": 1
+  }
+}

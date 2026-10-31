@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+dataset/
+hasil_pengelompokan/
+output/
+*.keras
+*.h5
+*.zip
+*.csv
+.env

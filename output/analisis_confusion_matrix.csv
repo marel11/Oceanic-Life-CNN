@@ -1,0 +1,9 @@
+Kelas,Jumlah Gambar Test,Prediksi Benar,Prediksi Salah,Recall (%)
+Coral,9,0,9,0.0
+Crustaceans,10,0,10,0.0
+Fish,33,1,32,3.03
+Octopuses,4,0,4,0.0
+Other marine organisms,16,1,15,6.25
+Seaweed,12,0,12,0.0
+Shark,13,13,0,100.0
+Sponges,6,0,6,0.0

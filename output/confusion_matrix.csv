@@ -1,0 +1,9 @@
+Label asli,Coral,Crustaceans,Fish,Octopuses,Other marine organisms,Seaweed,Shark,Sponges
+Coral,0,0,1,0,1,0,7,0
+Crustaceans,0,0,0,0,1,0,9,0
+Fish,0,0,1,0,0,0,32,0
+Octopuses,0,0,0,0,0,0,4,0
+Other marine organisms,0,0,0,0,1,0,15,0
+Seaweed,0,0,0,0,0,0,12,0
+Shark,0,0,0,0,0,0,13,0
+Sponges,0,0,0,0,0,0,6,0
